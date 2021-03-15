@@ -16,4 +16,4 @@ This list contains a subset of videos and such I think are good.
 ## Song list
 
 - Hard Drive - Cassandra Jenkins. <https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk?si=gDY8zecxSR-2Z63FEKgS_g>
-
+- Catalog of Unabashed Gratitude - Ross Gay, Bon iver. <https://open.spotify.com/track/41Ev4JLZynqYv8uTUZTdOp?si=-vEme60aR8mJqOpM5vywCw>
