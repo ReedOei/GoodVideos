@@ -21,6 +21,7 @@ This list contains a subset of videos and such I think are good.
 
 - Hard Drive - Cassandra Jenkins. <https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk?si=gDY8zecxSR-2Z63FEKgS_g>
 - Catalog of Unabashed Gratitude - Ross Gay, Bon iver. <https://open.spotify.com/track/41Ev4JLZynqYv8uTUZTdOp?si=-vEme60aR8mJqOpM5vywCw>
+- Boléro - Maurice Ravel. <https://open.spotify.com/track/3KtsRijwp8KunCRYlOdWEi?si=PY1clSi4RmKbLlmU6znkdw>
 
 ## Playlists
 - poetry <https://open.spotify.com/playlist/4gw63ppjQrfrtM3EnaNpr9?si=WAUQu2OqQnWmxltaVTS-hQ>
