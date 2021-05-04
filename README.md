@@ -13,6 +13,7 @@ This list contains a subset of videos and such I think are good.
 - Stand-up Maths. "The impossible odds of a Perfect Bridge Deal." <https://www.youtube.com/watch?v=s9-b-QJZdVA>
 - 3Blue1Brown. "Group theory, abstraction, and the 196,883-dimensional monster." <https://www.youtube.com/watch?v=mH0oCDa74tE>
 - Numberphile. "The Math of Being a Pig - Numberphile." <https://www.youtube.com/watch?v=ULhRLGzoXQ0>
+- Stand-up Maths. "How does Dobble (Spot It) work?" <https://www.youtube.com/watch?v=VTDKqW_GLkw>
 
 ## Podcast Stuff
 
