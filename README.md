@@ -18,6 +18,7 @@ This list contains a subset of videos and such I think are good.
 ## Podcast Stuff
 
 - 2011, 1714, 1620, 1516, 1517
+- https://podcasts.apple.com/us/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739?i=1000521121591
 
 ## Song list
 
