@@ -15,6 +15,9 @@ This list contains a subset of videos and such I think are good.
 - Numberphile. "The Math of Being a Pig - Numberphile." <https://www.youtube.com/watch?v=ULhRLGzoXQ0>
 - Stand-up Maths. "How does Dobble (Spot It) work?" <https://www.youtube.com/watch?v=VTDKqW_GLkw>
 - Stand-up Mats. "How many 3D nets does a 4D hypercube have?" <https://www.youtube.com/watch?v=Yq3P-LhlcQo>
+- Veritasium. "The Infinite Pattern That Never Repeats." <https://www.youtube.com/watch?v=48sCx-wBs34>
+- Veritasium. "The Discovery That Transformed Pi." <https://www.youtube.com/watch?v=gMlf1ELvRzc>
+- Veritasium. "Math Has a Fatal Flaw." <https://www.youtube.com/watch?v=HeQX2HjkcNo>
 
 ## Podcast Stuff
 
