@@ -20,6 +20,7 @@ This list contains a subset of videos and such I think are good.
 - Veritasium. "Math Has a Fatal Flaw." <https://www.youtube.com/watch?v=HeQX2HjkcNo>
 - Mathologer. "The Moessner Miracle. Why wasn't this discovered for over 2000 years?" <https://www.youtube.com/watch?v=rGlpyFHfMgI>
 - Mathologer. "NYT: Sperner's lemma defeats the rental harmony problem." <https://www.youtube.com/watch?v=7s-YM-kcKME>
+- Mathologer. "Secret of row 10: a new visual key to ancient Pascalian puzzles." <https://www.youtube.com/watch?v=9JN5f7_3YmQ>
 
 ## Podcast Stuff
 
