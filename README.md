@@ -14,13 +14,14 @@ This list contains a subset of videos and such I think are good.
 - 3Blue1Brown. "Group theory, abstraction, and the 196,883-dimensional monster." <https://www.youtube.com/watch?v=mH0oCDa74tE>
 - Numberphile. "The Math of Being a Pig - Numberphile." <https://www.youtube.com/watch?v=ULhRLGzoXQ0>
 - Stand-up Maths. "How does Dobble (Spot It) work?" <https://www.youtube.com/watch?v=VTDKqW_GLkw>
-- Stand-up Mats. "How many 3D nets does a 4D hypercube have?" <https://www.youtube.com/watch?v=Yq3P-LhlcQo>
+- Stand-up Maths. "How many 3D nets does a 4D hypercube have?" <https://www.youtube.com/watch?v=Yq3P-LhlcQo>
 - Veritasium. "The Infinite Pattern That Never Repeats." <https://www.youtube.com/watch?v=48sCx-wBs34>
 - Veritasium. "The Discovery That Transformed Pi." <https://www.youtube.com/watch?v=gMlf1ELvRzc>
 - Veritasium. "Math Has a Fatal Flaw." <https://www.youtube.com/watch?v=HeQX2HjkcNo>
 - Mathologer. "The Moessner Miracle. Why wasn't this discovered for over 2000 years?" <https://www.youtube.com/watch?v=rGlpyFHfMgI>
 - Mathologer. "NYT: Sperner's lemma defeats the rental harmony problem." <https://www.youtube.com/watch?v=7s-YM-kcKME>
 - Mathologer. "Secret of row 10: a new visual key to ancient Pascalian puzzles." <https://www.youtube.com/watch?v=9JN5f7_3YmQ>
+- Stand-up Maths. "How do you prove a prime is infinitely fragile?" <https://www.youtube.com/watch?v=p3Khnx0lUDE>
 
 ## Podcast Stuff
 
