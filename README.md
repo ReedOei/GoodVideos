@@ -22,6 +22,7 @@ This list contains a subset of videos and such I think are good.
 - Mathologer. "Secret of row 10: a new visual key to ancient Pascalian puzzles." <https://www.youtube.com/watch?v=9JN5f7_3YmQ>
 - Stand-up Maths. "How do you prove a prime is infinitely fragile?" <https://www.youtube.com/watch?v=p3Khnx0lUDE>
 - Stand-up Mats. "Why does this balloon have -1 holes?" <https://www.youtube.com/watch?v=ymF1bp-qrjU>
+- Numberphile. "A Problem with Rectangles - Numberphile." <https://www.youtube.com/watch?v=VZ25tZ9z6uI>
 
 ## Podcast Stuff
 
