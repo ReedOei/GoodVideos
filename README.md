@@ -10,7 +10,6 @@ This list contains a subset of videos and such I think are good.
 - Critical Role. "Stephen Colbert's D&D Adventure with Matthew Mercer (Red Nose Day 2019)." <https://www.youtube.com/watch?v=3658C2y4LlA>
 - Stand-up Maths. "Exploring the mysteries of the Prime (gaps!) Line." <https://www.youtube.com/watch?v=SMsTXQYgbiQ>
 - Mathologer. "The Pigeon Hole Principle: 7 gorgeous proofs." <https://www.youtube.com/watch?v=TCZ3YwbcDaw>
-- Stand-up Maths. "The impossible odds of a Perfect Bridge Deal." <https://www.youtube.com/watch?v=s9-b-QJZdVA>
 - 3Blue1Brown. "Group theory, abstraction, and the 196,883-dimensional monster." <https://www.youtube.com/watch?v=mH0oCDa74tE>
 - Numberphile. "The Math of Being a Pig - Numberphile." <https://www.youtube.com/watch?v=ULhRLGzoXQ0>
 - Stand-up Maths. "How does Dobble (Spot It) work?" <https://www.youtube.com/watch?v=VTDKqW_GLkw>
@@ -22,6 +21,7 @@ This list contains a subset of videos and such I think are good.
 - Mathologer. "NYT: Sperner's lemma defeats the rental harmony problem." <https://www.youtube.com/watch?v=7s-YM-kcKME>
 - Mathologer. "Secret of row 10: a new visual key to ancient Pascalian puzzles." <https://www.youtube.com/watch?v=9JN5f7_3YmQ>
 - Stand-up Maths. "How do you prove a prime is infinitely fragile?" <https://www.youtube.com/watch?v=p3Khnx0lUDE>
+- Stand-up Mats. "Why does this balloon have -1 holes?" <https://www.youtube.com/watch?v=ymF1bp-qrjU>
 
 ## Podcast Stuff
 
