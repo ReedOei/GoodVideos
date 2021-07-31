@@ -28,6 +28,7 @@ This list contains a subset of videos and such I think are good.
 
 - 2011, 1714, 1620, 1516, 1517
 - https://podcasts.apple.com/us/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739?i=1000521121591
+- https://podcasts.apple.com/us/podcast/opinionated-history-of-mathematics/id1444227264?i=1000528440967
 
 ## Song list
 
