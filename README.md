@@ -24,6 +24,7 @@ This list contains a subset of videos and such I think are good.
 - Stand-up Mats. "Why does this balloon have -1 holes?" <https://www.youtube.com/watch?v=ymF1bp-qrjU>
 - Numberphile. "A Problem with Rectangles - Numberphile." <https://www.youtube.com/watch?v=VZ25tZ9z6uI>
 - Mathologer. "Transcendental numbers powered by Cantor's infinities" <https://www.youtube.com/watch?v=3xyYs_eQTUc>
+- Mathologer. "Phi and the TRIBONACCI monster." https://www.youtube.com/watch?v=e7SnRPubg-g>
 
 ## Podcast Stuff
 
