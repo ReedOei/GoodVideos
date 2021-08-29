@@ -27,6 +27,7 @@ This list contains a subset of videos and such I think are good.
 - Mathologer. "Phi and the TRIBONACCI monster." https://www.youtube.com/watch?v=e7SnRPubg-g>
 - Numberphile. "Squared Squares - Numberphile." <https://www.youtube.com/watch?v=NoRjwZomUK0>
 - Numberphile. "Mondrian Puzzle - Numberphile." <https://www.youtube.com/watch?v=49KvZrioFB0>
+- Mathologer. "The +/- formulae at the heart of hyperspace. How can we make sense of things that don't exist?" <https://www.youtube.com/watch?v=E2l95ttmJOg>
 
 ## Podcast Stuff
 
