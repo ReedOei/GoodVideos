@@ -21,7 +21,7 @@ This list contains a subset of videos and such I think are good.
 - Mathologer. "NYT: Sperner's lemma defeats the rental harmony problem." <https://www.youtube.com/watch?v=7s-YM-kcKME>
 - Mathologer. "Secret of row 10: a new visual key to ancient Pascalian puzzles." <https://www.youtube.com/watch?v=9JN5f7_3YmQ>
 - Stand-up Maths. "How do you prove a prime is infinitely fragile?" <https://www.youtube.com/watch?v=p3Khnx0lUDE>
-- Stand-up Mats. "Why does this balloon have -1 holes?" <https://www.youtube.com/watch?v=ymF1bp-qrjU>
+- Stand-up Maths. "Why does this balloon have -1 holes?" <https://www.youtube.com/watch?v=ymF1bp-qrjU>
 - Numberphile. "A Problem with Rectangles - Numberphile." <https://www.youtube.com/watch?v=VZ25tZ9z6uI>
 - Mathologer. "Transcendental numbers powered by Cantor's infinities" <https://www.youtube.com/watch?v=3xyYs_eQTUc>
 - Mathologer. "Phi and the TRIBONACCI monster." https://www.youtube.com/watch?v=e7SnRPubg-g>
