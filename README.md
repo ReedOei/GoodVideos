@@ -35,6 +35,10 @@ This list contains a subset of videos and such I think are good.
 - https://podcasts.apple.com/us/podcast/sean-carrolls-mindscape-science-society-philosophy/id1406534739?i=1000521121591
 - https://podcasts.apple.com/us/podcast/opinionated-history-of-mathematics/id1444227264?i=1000528440967
 
+## Book
+
+- https://www.amazon.com/Cult-Pythagoras-Math-Myths/dp/0822962705
+
 ## Song list
 
 - Hard Drive - Cassandra Jenkins. <https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk?si=gDY8zecxSR-2Z63FEKgS_g>
