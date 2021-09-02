@@ -28,6 +28,7 @@ This list contains a subset of videos and such I think are good.
 - Numberphile. "Squared Squares - Numberphile." <https://www.youtube.com/watch?v=NoRjwZomUK0>
 - Numberphile. "Mondrian Puzzle - Numberphile." <https://www.youtube.com/watch?v=49KvZrioFB0>
 - Mathologer. "The +/- formulae at the heart of hyperspace. How can we make sense of things that don't exist?" <https://www.youtube.com/watch?v=E2l95ttmJOg>
+- Jordan Ellenberg (at the RI). "The Hidden Geometry of Everything" <https://www.youtube.com/watch?v=KoKa0OwzoL0>
 
 ## Podcast Stuff
 
