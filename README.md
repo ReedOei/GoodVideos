@@ -30,6 +30,7 @@ This list contains a subset of videos and such I think are good.
 - Mathologer. "The +/- formulae at the heart of hyperspace. How can we make sense of things that don't exist?" <https://www.youtube.com/watch?v=E2l95ttmJOg>
 - 3Blue1Brown. "Newton's Fractal (which Newton knew nothing about)." <https://www.youtube.com/watch?v=-RdOwhmqP5s>
 - Mathologer. "Do you understand this viral (very good) math movie clip?" <https://www.youtube.com/watch?v=04x4ZdLpN-0>
+- Veritasium. "This Problem Broke Math (and led to quantum physics)." <https://www.youtube.com/watch?v=cUzklzVXJwo>
 
 ## Podcast Stuff
 
