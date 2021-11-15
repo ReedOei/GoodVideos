@@ -31,6 +31,7 @@ This list contains a subset of videos and such I think are good.
 - 3Blue1Brown. "Newton's Fractal (which Newton knew nothing about)." <https://www.youtube.com/watch?v=-RdOwhmqP5s>
 - Mathologer. "Do you understand this viral (very good) math movie clip?" <https://www.youtube.com/watch?v=04x4ZdLpN-0>
 - Veritasium. "This Problem Broke Math (and led to quantum physics)." <https://www.youtube.com/watch?v=cUzklzVXJwo>
+- Numberphile. "A Video about the Number 10 - Numberphile." <https://www.youtube.com/watch?v=KZ1BVlURwfI>
 
 ## Podcast Stuff
 
